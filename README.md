@@ -1,1 +1,1 @@
-Her kommer alle eksempler fra Tema 7, efteråret 2021 til at ligge
+Her kommer alle DOM eksempler fra Tema 7, efteråret 2021 til at ligge
